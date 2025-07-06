@@ -69,10 +69,10 @@ Develop a **responsive personal portfolio website** that:
 | Section             |            Screenshot              |
 |---------------------|------------------------------------|
 | 🔹 Intro            | ![](screenshots/intro.png)         |
-| 🔹 About Me         | ![](screenshots/about.png)         |
+| 🔹 About          | ![](screenshots/about.png)         |
 | 🔹 Projects         | ![](screenshots/projects.png)      |
 | 🔹 Education        | ![](screenshots/qualification.png) |
-| 🔹 Contact Me       | ![](screenshots/contact%20me.png)  |
+| 🔹 Contact        | ![](screenshots/contact%20me.png)  |
 
 > 📝 *Make sure your screenshots are stored in the `/screenshots` folder in your repository.*
 
