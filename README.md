@@ -47,6 +47,7 @@ Develop a **responsive personal portfolio website** that:
 
 🔗 **See it live** here:  
 👉 [https://anant8521.github.io/my-portfolio/](https://anant8521.github.io/my-portfolio/)
+👉 [https://my-portfolio-five-sigma-98.vercel.app/](https://my-portfolio-five-sigma-98.vercel.app/)
 
 ---
 
