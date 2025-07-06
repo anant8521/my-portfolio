@@ -71,7 +71,7 @@ Develop a **responsive personal portfolio website** that:
 | 🔹 Intro            | ![](screenshots/intro.png)         |
 | 🔹 About Me         | ![](screenshots/about.png)         |
 | 🔹 Projects         | ![](screenshots/projects.png)      |
-| 🔹 Qualification    | ![](screenshots/qualification.png) |
+| 🔹 Education        | ![](screenshots/qualification.png) |
 | 🔹 Contact Me       | ![](screenshots/contact%20me.png)  |
 
 > 📝 *Make sure your screenshots are stored in the `/screenshots` folder in your repository.*
